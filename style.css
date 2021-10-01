@@ -1,0 +1,101 @@
+*
+{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+body 
+{
+	background-image: url("background.png");
+}
+#frame
+{
+	color: white;
+	background-color: black;
+	width: 520px;
+	height: 450px;
+	margin: 100px auto;	
+}
+h1
+{
+	margin-left: 160px;
+	position: relative;
+	bottom:-20px;
+}
+#container
+{
+	
+	font-size: 200%;
+	line-height: 70px;
+}
+p
+{
+  box-sizing: border-box;
+
+}
+.clg
+{
+	background-color: blue;
+	width: 520px;
+	text-align: center;
+	border-style: solid;
+}
+.news
+{
+	background-color: blue;
+	width: 520px;
+	text-align: center;
+	border-style: solid;
+}
+.soc
+{
+	background-color: blue;
+	width: 520px;
+	text-align: center;
+	border-style: solid;
+}
+.type
+{
+  background-color: blue;
+	width: 520px;
+	text-align: center;
+	border-style: solid;	
+}
+.edu
+{
+  background-color: blue;
+	width: 520px;
+	text-align: center;
+	border-style: solid;	
+}
+p:hover
+{
+	background-color: transparent;
+}
+a
+{
+	color: white;
+	text-decoration: none;
+}
+form
+{
+	margin-left: 550px;
+	position: relative;
+	bottom:80px;
+}
+button:hover
+{
+	background-color: transparent;
+}
+#hp
+{
+background-color:black ;
+}
+#hp:hover
+{
+	background-color:darkred;
+}
+b
+{
+	margin-left: 650px;
+}
